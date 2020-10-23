@@ -1,5 +1,5 @@
 # stats
 stats for 1hive pollen and other data analytics projects in the future
 
-You can open the 1hiveSourceCredGraphV4.ipynb file, clicking in the "Open Colab" button on top.
-Once it opens in a new browser tap, you can execute it 
+The first test is 1hiveSourcecredgraphV4.ypynb. You can open the file in Google Colab and execute it.
+Alternativelly you can download the py version of the file and execute it in any python IDE.
